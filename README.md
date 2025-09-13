@@ -15,3 +15,8 @@ The app takes a user query, processes it with LangChain pipelines, and displays 
 ---
 
 ## 📂 Project Structure
+project/
+│── app.py # Main Streamlit app
+│── .env # Store API keys here
+│── requirements.txt # Python dependencies
+│── README.md # Project documentation
